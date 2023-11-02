@@ -1,3 +1,11 @@
 # DrumKit_Udemy_Web
-<h2>Basic project</h2>
-Drum kit project made on Udemy course with Html, css and javascript basics. 
+
+## A drum online
+
+### Technologies:
+
+-   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+-   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+-   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+
+This project simulates a simple drum as a static website to kick back and relax
